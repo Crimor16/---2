@@ -1,0 +1,18 @@
+#h{
+	margin-left: 40%;
+	margin-top: 8%;
+	display: inline-block;
+};
+#div2{
+	width: 100%;
+	display: inline-block;
+};
+#div3{
+	width: 100%;
+	display: inline-block;
+};
+#CommonDiv{
+	width: 100%;
+	margin-top: 100px;
+	display: inline-block;
+};
